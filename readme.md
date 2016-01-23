@@ -1,1 +1,1 @@
-This is an example repository
+This is a cool example repository
